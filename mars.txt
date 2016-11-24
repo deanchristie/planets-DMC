@@ -8,5 +8,7 @@ Affiliation: Scion
 
 Title: Mars - how it got it's name.
 
+Data: a.dat
+
 References:
 (from the reference.bib file)
