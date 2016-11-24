@@ -8,3 +8,6 @@ Author: Dean Christie
 Affiliation: Scion
 
 Title: Mars - how it got it's name.
+
+References:
+(from the reference.bib file)
